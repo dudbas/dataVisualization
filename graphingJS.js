@@ -1,3 +1,5 @@
+//JAMES LAM 114439394 09/28/2022
+
 function barGraph(val) {
     document.getElementById("graphingLocation").innerHTML ="";
     if(val=='contributingFactorsV1'){
